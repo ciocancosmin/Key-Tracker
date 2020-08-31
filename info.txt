@@ -1,0 +1,7 @@
+-search utilizator (firstname,lastname) (admin,activ,inactiv)
+-buton anulare change password
+-info.php
+-pagina edit(like add user)
+-cancel la edit user
+-tastatura
+-redenumire test
